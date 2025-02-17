@@ -27,7 +27,7 @@
 ### - **Chicago Crime Data:** Data on crime types and locations across the city.
 
 
-## *Analysis & Insights:**
+## **Analysis & Insights:**
 ### The analysis led to the following key findings:
 ### 1. **Hardship Index and Socioeconomic Factors:** Higher per capita income correlates with a lower Hardship Index. Areas with better education and income levels experience lower hardship.
 ### 2. **Crime Patterns:** The majority of crimes occur on streets, followed by residences, sidewalks, and apartments. Theft is the most common crime, followed by battery, criminal damage, and narcotics.
